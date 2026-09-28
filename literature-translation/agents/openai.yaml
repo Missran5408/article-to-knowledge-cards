@@ -1,0 +1,4 @@
+interface:
+  display_name: "文献翻译"
+  short_description: "把英文文献逐段译成中文，并为每段生成学科知识卡片与术语对照"
+  default_prompt: "Use $literature-translation to translate an English paper into Chinese paragraph by paragraph, with a knowledge card for each paragraph."
